@@ -1,0 +1,292 @@
+#bottom{
+	width: 100%;
+	height: auto;
+}
+#bottom .container{
+	width: 995px;
+	height: auto;
+	margin:0 auto;
+}
+#bottom .container .sidebar{
+	width: 176px;
+	height: 629px;
+	background: url(../images/sidebar.jpg) no-repeat;
+	margin-top: 10px;
+	float: left;
+}
+#bottom .container .sidebar p{
+	width: 176px;
+	height: 43px;
+	text-align: center;
+	margin-top: 15px;
+}
+#bottom .container .sidebar p b{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	line-height: 32px;
+	color: #800d1b;
+	font-weight: 400;
+}
+#bottom .container .sidebar p span{
+	font-family: "Tahoma";
+	font-size: 12px;
+	color: #fff;
+	letter-spacing: 1px;
+}
+#bottom .container .sidebar ul{
+	width: 176px;
+	height: auto;
+	margin-top: 43px;
+}
+#bottom .container .sidebar ul li{
+	padding: 14px 0;
+	margin-left: 40px;
+	text-indent: 30px;
+}
+#bottom .container .sidebar ul li.current1{
+	background: url(../images/sidebar_bg.jpg)0px 18px no-repeat;
+}
+#bottom .container .sidebar ul li.current1 a{
+	color: #f12121;
+}
+#bottom .container .sidebar ul li a{
+	color: #800d1b;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+/*联系我们栏目样式标签开始*/
+#bottom .container .sidebar .contact{
+	width: 176px;
+	height: auto;
+	margin-top: 0px;
+	background-color: #fff;
+	overflow: hidden;
+	z-index: 5;
+}
+#bottom .container .sidebar .contact .title{
+	width: 176px;
+	height: 36px;
+	line-height: 36px;
+	text-indent: 20px;
+	background: url(../images/shouye.gif)0 2px no-repeat;
+}
+#bottom .container .sidebar .contact .title h3{
+	width: 90px;
+	font-size: 16px;
+	color: #e07ea0;
+	float: left;
+}
+#bottom .container .sidebar .contact .title p{
+	width: 86px;
+	float: left;
+	font-size: 12px;
+	letter-spacing: 1px;
+	color: #e07ea0;
+	line-height: 36px;
+	margin-top: 0;
+	margin-left: 0;
+	text-indent: 0;
+}
+#bottom .container .sidebar .contact .content{
+	width: 176px;
+	height: 156px;
+	margin-top: 0px;
+}
+#bottom .container .sidebar .contact .content .tel{
+	width: 165px;
+	height: 65px;
+	margin-left: 30px;
+	position: relative;
+}
+#bottom .container .sidebar .contact .content .tel .tel_bg{
+	position: absolute;
+	top: 0px;
+	left: -40px;
+	width: 34px;
+	height: 34px;
+	background: url(../images/shouye.gif)0px -109px no-repeat;
+}
+#bottom .container .sidebar .contact .content .tel h3{
+	font-family: "[FZCCHJW]";
+	font-size: 20px;
+	color: #757575;
+	float: left;
+}
+#bottom .container .sidebar .contact .content .tel .time{
+	float: left;
+	width: 45px;
+	height: 18px;
+	border-radius: 10px;
+	background-color: #EA5B91;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	line-height: 18px;
+	margin-top: 5px;
+}
+#bottom .container .sidebar .contact .content .tel .ampm{
+	width: 72px;
+	height: 31px;
+	float: left;
+	margin-top: 5px;
+}
+#bottom .container .sidebar .contact .content .tel .ampm p{
+	width: 72px;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	line-height: 15px;
+	color: #3e3e3e;
+	margin-top: 0;
+	text-indent: 0;
+}
+#bottom .container .sidebar .contact .content ul.talk{
+	width: 176px;
+	height: 55px;
+	margin-left: -10px;
+	margin-top: 0;
+}
+#bottom .container .sidebar .contact .content ul.talk li{
+	width: 86px;
+	height: 0;
+	float: left;
+	margin: 1px 1px;
+	background: url(../images/talk_bg.jpg)no-repeat;
+	font-family: "宋体";
+	font-size: 12px;
+	color: #e07ea0;
+	text-align: center;
+	position: relative;
+}
+#bottom .container .sidebar .contact .content ul.talk li b{
+	display: block;
+	font-weight: 400;
+	width: 86px;
+	height: 20px;
+	position: absolute;
+	top: 2px;
+	left: -20px;
+	text-align: center;
+}
+/*联系我们栏目样式标签结束*/
+#bottom .container .content{
+	width: 809px;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#bottom .container .content .title{
+	width: 815px;
+	height: 9px;
+}
+#bottom .container .content .title .title_l{
+	float: left;
+	width: 359px;
+	height: 9px;
+	background: url(../images/tiao_l.jpg);
+}
+#bottom .container .content .title .title_c{
+	float: left;
+	width: 90px;
+	height: 9px;
+	position: relative;
+}
+#bottom .container .content .title .title_c h3{
+	font-family: "方正中倩简体";
+	font-size: 18px;
+	line-height: 5px;
+	color: #e57888;
+	text-align: center;
+}
+#bottom .container .content .title .title_c i{
+	font-size: 12px;
+	color: #898989;
+	position: absolute;
+	top: -15px;
+	right: -140px;
+	letter-spacing: 1px;
+}
+#bottom .container .content .title .title_r{
+	float: left;
+	width: 365px;
+	height: 9px;
+	background: url(../images/tiao_r.jpg);
+}
+#bottom .container .content .pic{
+	width: 809px;
+	margin-left: 5px;
+	margin-top: 20px;
+	height: auto;
+}
+#bottom .container .content .realpic{
+	width: 192px;
+	height: 280px;
+	float: left;
+	padding-right: 8px;
+
+}
+#bottom .container .content .realpic p{
+	font-family: "宋体";
+	font-size: 14px;
+	color: #3f3e3e;
+	text-align: center;
+	line-height: 23px;
+}
+#bottom .container .content .pic img{
+}
+#bottom .container .content .tab{
+	width: 809px;
+	height: 29px;
+	line-height: 29px;
+	text-align: center;
+	margin-top: 40px;
+	float: left;
+}
+#bottom .container .content .tab a{
+	color: #f6985b;
+}
+#bottom .container .content .tab .pre{
+	color:#f6985b;
+	font-size: 11px; 
+	font-family:"Tahoma";
+	float: left;
+	margin-left: 280px;
+}
+#bottom .container .content .tab ul{
+	width: auto;
+	height: 29px;
+	margin-left: 15px;
+	float: left;
+}
+#bottom .container .content .tab ul li{
+	width: 40px;
+	float: left;
+	font-family: "Arial";
+	font-size: 11px;
+	color: #fb741d;
+	margin-top: 7px;
+}
+#bottom .container .content .tab ul li.current2 a{
+	color:#fff;
+	background-color: #F9873D;
+}
+#bottom .container .content .tab ul li a{
+	display: block;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+}
+#bottom .container .content .tab .next{
+	color:#f6985b;
+	font-size: 11px; 
+	font-family:"Tahoma";
+	float: left;
+	margin-left: 0px;
+}
+#space{
+	width: 100%;
+	height: 40px;
+	float: left;
+}
+

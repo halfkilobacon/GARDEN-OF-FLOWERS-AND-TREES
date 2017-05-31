@@ -1,0 +1,233 @@
+/*bottom样式标签开始*/
+#bottom{
+	width: 100%;
+	height: auto;
+}
+#bottom .container{
+	width: 995px;
+	height: auto;
+	margin:0 auto;
+}
+#bottom .container .sidebar{
+	width: 176px;
+	height: 396px;
+	background: url(../images/sidebar.jpg);
+	margin-top: 10px;
+	float: left;
+}
+#bottom .container .sidebar p{
+	width: 176px;
+	height: 43px;
+	text-align: center;
+	margin-top: 15px;
+}
+#bottom .container .sidebar p b{
+	font-family: "微软雅黑";
+	font-size: 18px;
+	line-height: 32px;
+	color: #800d1b;
+	font-weight: 400;
+}
+#bottom .container .sidebar p span{
+	font-family: "Tahoma";
+	font-size: 12px;
+	color: #fff;
+	letter-spacing: 1px;
+}
+#bottom .container .sidebar ul{
+	width: 176px;
+	height: 295px;
+	margin-top: 43px;
+}
+#bottom .container .sidebar ul li{
+	padding: 14px 0;
+	margin-left: 40px;
+	text-indent: 30px;
+}
+#bottom .container .sidebar ul li.current1{
+	background: url(../images/sidebar_bg.jpg)0px 18px no-repeat;
+}
+#bottom .container .sidebar ul li.current1 a{
+	color: #f12121;
+}
+#bottom .container .sidebar ul li a{
+	color: #800d1b;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+#bottom .container .content{
+	width: 809px;
+	height: auto;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#bottom .container .content .title{
+	width: 815px;
+	height: 9px;
+}
+#bottom .container .content .title .title_l{
+	float: left;
+	width: 359px;
+	height: 9px;
+	background: url(../images/tiao_l.jpg);
+}
+#bottom .container .content .title .title_c{
+	float: left;
+	width: 90px;
+	height: 9px;
+	position: relative;
+}
+#bottom .container .content .title .title_c h3{
+	font-family: "方正中倩简体";
+	font-size: 18px;
+	line-height: 5px;
+	color: #e57888;
+	text-align: center;
+}
+#bottom .container .content .title .title_c i{
+	font-size: 12px;
+	color: #898989;
+	position: absolute;
+	top: -15px;
+	right: -85px;
+	letter-spacing: 1px;
+}
+#bottom .container .content .title .title_r{
+	float: left;
+	width: 365px;
+	height: 9px;
+	background: url(../images/tiao_r.jpg);
+}
+#bottom .container .content .contact{
+	width: 815px;
+	height: auto;
+	margin-top: 19px;
+}
+#bottom .container .content .contact .left{
+	width: 444px;
+	height: 374px;
+	float: left;
+}
+#bottom .container .content .contact .left p{
+	font-family: "宋体";
+	font-size: 14px;
+	line-height: 25px;
+	color:#505050;
+	margin-bottom: 10px;
+}
+#bottom .container .content .contact .right{
+	width: 264px;
+	height: 374px;
+	float: left;
+	margin-left: 107px;
+}
+#bottom .container .content .contact .right .quick{
+	width: 264px;
+	height: 18px;
+}
+#bottom .container .content .contact .right .quick h3{
+	float: left;
+	font-family: "宋体";
+	font-size: 14px;
+	line-height: 18px;
+	font-weight: 700;
+	color: #666666;
+	margin-right: 10px;
+}
+#bottom .container .content .contact .right .quick b{
+	font-weight: 400;
+	font-family: "Tahoma";
+	font-size: 12px;
+	color: #e23c54;
+	float: left;
+}
+#bottom .container .content .contact .right ul.list{
+	width: 264px;
+	height: 89px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#bottom .container .content .contact .right ul.list li{
+	width: 132px;
+	height: 35px;
+	float: left;
+	padding-bottom: 20px;
+}
+#bottom .container .content .contact .right ul.list li .list_1{
+	width: 32px;
+	height: 28px;
+	background: url(../images/icon.gif)0 -50px no-repeat;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+#bottom .container .content .contact .right ul.list li .list_2{
+	width: 29px;
+	height: 22px;
+	background: url(../images/icon.gif)0 -99px no-repeat;
+	position: absolute;
+	top: 0px;
+	left: 138px;
+}
+#bottom .container .content .contact .right ul.list li .list_3{
+	width: 34px;
+	height: 31px;
+	background: url(../images/icon.gif)0 -154px no-repeat;
+	position: absolute;
+	top: 58px;
+	left: 0px;
+}
+#bottom .container .content .contact .right ul.list li .list_4{
+	width: 30px;
+	height: 33px;
+	background: url(../images/icon.gif)0 -207px no-repeat;
+	position: absolute;
+	top: 58px;
+	left: 138px;
+}
+#bottom .container .content .contact .right ul.list li p{
+	width: 80px;
+	height: 35px;
+	margin-left: 50px;
+}
+#bottom .container .content .contact .right ul.list li p a{
+	font-family: "宋体";
+	font-size: 14px;
+	color: #666666;
+}
+#bottom .container .content .contact .right ul.list li p a b{
+	font-weight: 400;
+	font-family: "Tahoma";
+}
+#bottom .container .content .contact .right .pic{
+	width: 252px;
+	height: 121px;
+	margin-left: 10px;
+	background: url(../images/contact.jpg);
+	margin-top: 5px;
+}
+#bottom .container .content .contact .right .pic p{
+	width: 164px;
+	height: 48px;
+	font-family: "宋体";
+	font-size: 14px;
+	color: #e23c54;
+	float: left;
+	margin-top: 30px;
+}
+#bottom .container .content .contact .right .pic p b{
+	font-family: "微软雅黑";
+	font-size: 22px;
+}
+/*页脚上边的空白部分样式标签开始*/
+#space{
+	width: 100%;
+	height: 132px;
+	float: left;
+}
+
+/*页脚上边的空白部分样式标签开始*/
+/*bottom样式标签结束*/
+
